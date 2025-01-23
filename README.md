@@ -1,6 +1,6 @@
 Code to reproduce analysis and figures from "Coexistence of many species under a random competition-colonization trade-off" by Zachary R. Miller, Maxime Clenet, Katja Della Libera, François Massol, and Stefano Allesina. 
 
-Email zrmiller@illinois.edu wth any questions.
+Email zachary.miller@yale.edu wth any questions.
 
 Required packages: tidyverse, RColorBrewer, ggpubr, deSolve, truncnorm
 
